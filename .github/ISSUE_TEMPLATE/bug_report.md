@@ -1,38 +1,25 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: バグ報告
+about: バグ改善のための報告issue
+title: 'bug_〇〇'
+labels: 'bug'
 assignees: ''
-
+body:
+    type: input
+    id:
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Bug report
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## どんな不具合が出る？
+<!-- 例：ヘルプのフローティングアイコンが見切れている -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 不具合の再現方法
+<!-- 例：スマートフォンからトップページにアクセスする -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## どう動作すると正しい？
+<!-- 例：トップページにアクセスするとヘルプのフローティングアイコンが画面の右下に表示される -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## 参考情報
+<!-- バージョン情報とか -->

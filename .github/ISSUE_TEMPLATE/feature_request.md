@@ -1,20 +1,19 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: 機能要望
+about: 欲しい機能がある場合，こちらに記載
+title: 'enhancement_〇〇'
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 欲しい機能は何？
+<!-- 例：bulmaの解説機能が欲しい -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## なぜその機能が欲しい？
+<!-- 例：Bootstrapより簡易的でモダンなCSSフレームワークでファンも増えるはずだが，日本語の解説が少なすぎるため -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 実装方法
+<!-- 例：〇〇.comのナビゲーションにbulmaのメニューを追加して解説ページを作成していく -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 参考URL
